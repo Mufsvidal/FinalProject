@@ -1,16 +1,16 @@
 Package: FinalProjectLIS4370
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Temperature in Medellin, Colombia throughout the months. 
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "David", "Vidal",
+      email = "davidfer.vidal@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: This package aims to check the max temp, min temp and average temp throughout the months in 
+  Medellin, Colombia. This package uses ggplot2 and tidyverse.
+License: MIT + file License. 
 Encoding: UTF-8
 LazyData: true
